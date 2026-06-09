@@ -1,11 +1,5 @@
 # How do you do, fellow QA's?  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyNWFmMGFzZ2swd3U3djIzazNud3BieDUxMjF4azU5NWx6aWpkMm4xdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8bDfdpwKLZcgIFGp8z/giphy.gif" width="50" height="50">
 ---
-
-### Несколько фактов обо мне:
-
-- 🥷🏻 Я тестировщик, основной домен - тестирование веб-приложений (front + back). 
-- 🕶 Fun fact: помимо куа поуши увлечён бодибилдингом.
-
 - 📫 Как связаться со мной: <div id="badges"> <a href="mailto:enormousnose@yandex.ru" target="_blank"> <img src="https://free.arinco.org/i/logo/mail-yandex-logo-2018-v2.svg" width="100" height="100" alt="yandex_mail" /> </a>  </div>
 ---
 
